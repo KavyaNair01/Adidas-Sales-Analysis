@@ -57,7 +57,7 @@ This analysis dives deep into:
 ---
 
 ### 3. **Adidas Trend Analysis** 📈
-![Adidas Trend Analysis](dashboard_trends.png)  
+![Adidas Trend Analysis](dashboard_trend.png)  
 
 **Key Metrics**:
 - **📈 MoM Profit Growth**: 36.98%
@@ -74,7 +74,7 @@ This analysis dives deep into:
 ---
 
 ### 4. **Adidas Sales and Trends Story** 📖
-![Adidas Sales and Trends Story](key_findings.png)  
+![Adidas Sales and Trends Story](findings.png)(overview.png)  
 
 **Key Findings**:
 - **📦 Products**: Men's Street Footwear drives significant revenue, but Women's Apparel is underutilized in certain regions.
