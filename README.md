@@ -39,7 +39,7 @@ This analysis dives deep into:
 ---
 
 ### 2. **Adidas Product Performance Analysis** 👟
-![Adidas Product Performance Analysis](image.png)  
+![Adidas Product Performance Analysis](dashboard_product.png)  
 
 **Key Metrics**:
 - **📦 Total Units Sold**: 2,478,861
@@ -57,7 +57,7 @@ This analysis dives deep into:
 ---
 
 ### 3. **Adidas Trend Analysis** 📈
-![Adidas Trend Analysis](image.png)  
+![Adidas Trend Analysis](dashboard_trends.png)  
 
 **Key Metrics**:
 - **📈 MoM Profit Growth**: 36.98%
@@ -74,7 +74,7 @@ This analysis dives deep into:
 ---
 
 ### 4. **Adidas Sales and Trends Story** 📖
-![Adidas Sales and Trends Story](image.png)  
+![Adidas Sales and Trends Story](key_findings.png)  
 
 **Key Findings**:
 - **📦 Products**: Men's Street Footwear drives significant revenue, but Women's Apparel is underutilized in certain regions.
