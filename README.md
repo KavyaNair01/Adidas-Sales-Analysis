@@ -2,6 +2,8 @@
 
 Welcome to the **Adidas Sales and Trends Analysis**! This project provides a comprehensive exploration of sales performance, trends, and actionable insights using Tableau dashboards and visualizations. Below, you'll find an overview of the key insights and dashboards included in this analysis.
 
+Link : https://public.tableau.com/app/profile/kavya.kumary.jayanthi.nair/viz/Adidas_Sales_Analysis_17374408091730/Story
+
 ---
 
 ## 🌟 Overview
