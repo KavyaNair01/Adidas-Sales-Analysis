@@ -95,7 +95,7 @@ This analysis dives deep into:
 ---
 
 ## 📝 Notes
-- This analysis was created using Tableau version X.X.
+- This analysis was created using Tableau version 2024.2.
 - Data sources include Adidas sales data from various regions and retailers.
 - For any questions or further analysis, feel free to reach out! 📧
 
