@@ -17,7 +17,7 @@ This analysis dives deep into:
 ## 📊 Dashboards and Insights
 
 ### 1. **Adidas Sales Overview** 📋
-![Adidas Sales Overview](dashboard_sales)  
+![Adidas Sales Overview](dashboard_sales.png)  
 
 **Key Metrics**:
 - **🔝 Top N**: 10
